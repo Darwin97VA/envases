@@ -1,0 +1,14 @@
+#formContact {
+  overflow: hidden;
+}
+#containerToast {
+  position: fixed; 
+  bottom: 1em; 
+  right: 1em; 
+  z-index: 999999; 
+  height: auto; 
+  width: 300px;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+}

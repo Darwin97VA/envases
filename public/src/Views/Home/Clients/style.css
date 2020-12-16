@@ -1,0 +1,10 @@
+#clientes {
+  overflow: hidden;
+}
+#clientes .glider > div {
+  display: flex;
+  align-items: center;
+}
+#clientes .glider img {
+  width: 150px;
+}

@@ -1,0 +1,12 @@
+.logo {
+  max-width: 80%;
+}
+#header .logo h1 > span{
+  margin-right: .3em;
+}                                                                                                                                                                                                                                                                                                                                                                                                 
+
+@media (max-width: 460px) {
+  #header .logo h1{
+    flex-wrap: wrap;
+  }
+}

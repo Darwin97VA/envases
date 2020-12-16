@@ -1,0 +1,10 @@
+
+#presentacion .carousel-item {
+    height: clamp(200px, 40vw, 500px);
+}
+#presentacion .carousel-item img {
+    height: 100%;
+}
+#presentacion .carousel-caption {
+    background: rgba(0,0,0,.6);
+}
